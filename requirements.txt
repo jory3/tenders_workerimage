@@ -1,0 +1,9 @@
+wheel
+lxml
+pandas
+voluptuous
+xmltodict
+prefect[azure]
+pymongo
+psycopg2-binary
+python-dotenv
